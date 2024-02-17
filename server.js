@@ -96,22 +96,22 @@ function addEmployee() {
     inquirer.prompt([
         {
             type: 'input',
-            name: 'firstName',
+            name: 'first_name',
             message: 'Enter employee first name:'
         },
         {
             type: 'input',
-            name: 'lastName',
+            name: 'last_name',
             message: 'Enter employee last name:'
         },
         {
             type: 'input',
-            name: 'roleId',
+            name: 'role_id',
             message: 'Enter employee role ID:'
         },
         {
             type: 'input',
-            name: 'managerId',
+            name: 'manager_id',
             message: 'Enter employee manager ID:'
         }
     ])
