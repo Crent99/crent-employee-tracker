@@ -9,8 +9,7 @@
 
 ## Link
 
-Link to Walkthrough Video: 
-
+Link to Walkthrough Video: [(https://www.youtube.com/watch?v=8NBCGbb7iFo)]
 ## Description 
 
 This backend project was made to show my newfound abilities with MySQL and combine with other stuff we've learned the last few weeks. It shows a database with employees, salaries, departments, etc. 
