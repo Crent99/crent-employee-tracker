@@ -1,5 +1,7 @@
 # crent-employee-tracker
 
+## Table of Contents
+
 - [Title](#title)
 - [Link](#link)
 - [Description](#description)
